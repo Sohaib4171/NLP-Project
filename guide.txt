@@ -1,0 +1,6 @@
+Install the libraries mentioned in the requirements.txt
+Download java jre and jdk
+Run the main.py file
+
+Note: Save the resume in the predictionData/predictResumes folder and mention the resume filenames in the predict.csv file to make
+on them. 
